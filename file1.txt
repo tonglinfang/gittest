@@ -2,4 +2,8 @@
 main1 
 branch1 
 branch2 
+<<<<<<< Updated upstream
 branch4 
+=======
+branch3 
+>>>>>>> Stashed changes
